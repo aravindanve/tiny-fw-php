@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# local config
+/local.php
+
