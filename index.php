@@ -51,7 +51,7 @@ if (empty(trim($_['base_url']))) {
         $_base_url .= '://'.$_SERVER['HTTP_HOST'].str_replace(
             basename($_SERVER['SCRIPT_NAME']), '', $_SERVER['SCRIPT_NAME']);
     } else {
-        $_base_url = 'http://localhost/a';
+        $_base_url = 'http://localhost/';
     }
     $_['base_url'] = $_base_url;
 }
