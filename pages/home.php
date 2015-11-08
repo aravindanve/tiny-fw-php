@@ -170,7 +170,7 @@ $_page['title']     = 'TinyFW 2';</code></pre>
     # this will render this page with custom-template.php from \'templates/\'
     $TEMPLATE = \'custom-template\'; 
 
-    # this will set the page title to \'My First Page - My Site\' */
+    # this will set the page title to \'My First Page - My Site\'
     $PAGE_TITLE = page_title(\'My First Page\');
 
     /* 
