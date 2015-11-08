@@ -171,7 +171,7 @@ $_page['title']     = 'TinyFW 2';</code></pre>
     $TEMPLATE = \'custom-template\'; 
 
     # this will set the page title to \'My First Page - My Site\' */
-    $PAGE_TITLE = page_title(\'My First Page\'); // will set page title to 
+    $PAGE_TITLE = page_title(\'My First Page\');
 
     /* 
     alternatively if you dont want your sitename to appear 
